@@ -1,0 +1,16 @@
+{
+  "name": "training-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.11.0",
+    "jest": "^27.5.1",
+    "prettier": "^2.6.0"
+  }
+}
